@@ -5,4 +5,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sushilk03861/leetcode/tree/master/0009-palindrome-number) |
+## Array
+|  |
+| ------- |
+| [0485-max-consecutive-ones](https://github.com/sushilk03861/leetcode/tree/master/0485-max-consecutive-ones) |
 <!---LeetCode Topics End-->
