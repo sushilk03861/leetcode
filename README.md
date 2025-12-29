@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sushilk03861/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sushilk03861/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/sushilk03861/leetcode/tree/master/0485-max-consecutive-ones) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/sushilk03861/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sushilk03861/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/sushilk03861/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Hash Table
 |  |
 | ------- |
