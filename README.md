@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sushilk03861/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sushilk03861/leetcode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/sushilk03861/leetcode/tree/master/0189-rotate-array) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sushilk03861/leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sushilk03861/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/sushilk03861/leetcode/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/sushilk03861/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sushilk03861/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/sushilk03861/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/sushilk03861/leetcode/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/sushilk03861/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
