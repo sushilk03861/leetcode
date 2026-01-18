@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sushilk03861/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sushilk03861/leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/sushilk03861/leetcode/tree/master/0189-rotate-array) |
+| [2169-count-operations-to-obtain-zero](https://github.com/sushilk03861/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 ## Array
 |  |
 | ------- |
@@ -85,4 +86,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sushilk03861/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2169-count-operations-to-obtain-zero](https://github.com/sushilk03861/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
