@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sushilk03861/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/sushilk03861/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/sushilk03861/leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/sushilk03861/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/sushilk03861/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sushilk03861/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/sushilk03861/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sushilk03861/leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/sushilk03861/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/sushilk03861/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/sushilk03861/leetcode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sushilk03861/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sushilk03861/leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/sushilk03861/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/sushilk03861/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sushilk03861/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Prefix Sum
