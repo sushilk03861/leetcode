@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sushilk03861/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sushilk03861/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sushilk03861/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0876-middle-of-the-linked-list](https://github.com/sushilk03861/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sushilk03861/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/sushilk03861/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/sushilk03861/leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
