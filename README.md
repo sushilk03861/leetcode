@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sushilk03861/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/sushilk03861/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/sushilk03861/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0941-valid-mountain-array](https://github.com/sushilk03861/leetcode/tree/master/0941-valid-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sushilk03861/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1089-duplicate-zeros](https://github.com/sushilk03861/leetcode/tree/master/1089-duplicate-zeros) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sushilk03861/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
