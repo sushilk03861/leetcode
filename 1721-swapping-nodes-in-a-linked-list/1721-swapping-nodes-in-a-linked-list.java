@@ -9,22 +9,20 @@
  * }
  */
 class Solution {
-    public ListNode swapNodes(ListNode head, int k) {
-        ListNode dummy = new  ListNode(-1);
-        dummy.next = head;
-        ListNode temp = dummy;
-        ListNode fast = dummy;
-        ListNode slow = dummy;
-        int c = 0;
+    public ListNode swapNodes(ListNode head, int k) {  
+        ListNode temp = head;
+        ListNode fast = head;
+        ListNode slow = head;
+        int c = 1;
         while(temp.next!=null){
             temp = temp.next;
             c++;
        }
-       for(int i = 0;i<k;i++){
+       for(int i = 1;i<k;i++){
         slow = slow.next;
        }
        int p = c-k+1;
-       for(int i = 0 ;i<p;i++){
+       for(int i = 1 ;i<p;i++){
          fast = fast.next;
        
        }    
@@ -32,7 +30,7 @@ class Solution {
         slow.val = fast.val;
         fast.val = dup;
 
-return dummy.next;
+return head;
         
     }
 }
